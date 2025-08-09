@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript basics, DOM manipulation, and building daily coding habits.**
 
-- 📫 How to reach me *hddgpp56@gmail.com**
+- 📫 How to reach me **hddgpp56@gmail.com**
 
 - 📄 Know about my experiences [(No resume yet)]((No resume yet))
 
