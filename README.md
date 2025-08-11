@@ -16,14 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hddgpp](https://github.com/hddgpp)
 
-- 📝 I regularly write articles on [(No blog yet)]((No blog yet))
+- 📝 I regularly write articles on [(No blog yet)]
 
 - 💬 Ask me about **JavaScript basics, DOM manipulation, and building daily coding habits.**
 
 - 📫 How to reach me **hddgpp56@gmail.com**
 
-- 📄 Know about my experiences [(No resume yet)]((No resume yet))
-
+- 📄 Know about my experiences [(No resume yet)]
 - ⚡ Fun fact **My stopwatch app doesn’t just track time — it’s been tracking my progress too**
 
 <h3 align="left">Connect with me:</h3>
