@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Beginner-friendly software projects that involve logic, storage, and interaction.**
 
-- 🤝 I’m looking for help with **Writing cleaner, more maintainable JavaScript code.**
+- 🤝 I’m looking for help with **Writing cleaner, more maintainable code.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hddgpp](https://github.com/hddgpp)
 
