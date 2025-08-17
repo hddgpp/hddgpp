@@ -1,5 +1,6 @@
 [README.md](https://github.com/user-attachments/files/21689014/README.md)
-<h1 align="center">Hi 👋, I'm hddgpp</h1>
+<h1 align="center">Hi 👋, youssef</h1>
+<h1 align="center">You can call me hddgpp</h1>
 <h3 align="center">A passionate software development learner, building small projects daily to sharpen my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hddgpp&label=Profile%20views&color=0e75b6&style=flat" alt="hddgpp" /> </p>
