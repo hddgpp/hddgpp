@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript basics, DOM manipulation, and building daily coding habits.**
 
-- 📫 How to reach me **hddgpp56@gmail.com**
+- 📫 How to reach me **hddgpp56@gmail.com** or **x.com/hddgpp**
 
 - 📄 Know about my experiences [(No resume yet)]
 - ⚡ Fun fact **My stopwatch app doesn’t just track time — it’s been tracking my progress too**
