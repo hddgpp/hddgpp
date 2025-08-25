@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/21689014/README.md)
-<h1 align="center">Hi 👋,Im youssef</h1>
+<h1 align="center">Hi there👋,Im youssef</h1>
 <h1 align="center">You can call me hddgpp</h1>
 <h3 align="center">A passionate software development learner, building small projects daily to sharpen my skills.</h3>
 
