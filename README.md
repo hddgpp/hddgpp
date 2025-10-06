@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Fullstack — focusing on React/TypeScript, problem solving, and persistence with localStorage/Data**
 
-- 👯 I’m looking to collaborate on **software projects that involve UI/UX, logic, storage,Data, and interaction.**
+- 👯 I’m looking to collaborate on **software projects that involve UI/UX, logic, storage, Data, and interaction.**
 
 - 🤝 I’m looking for help with **Writing cleaner, more maintainable React code.**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [x.com](x.com)
 
-- 💬 Ask me about **React/TypeScript, DOM manipulation, and building daily coding habits.**
+- 💬 Ask me about **React/TypeScript/Tailwind, DOM manipulation, and building daily coding habits.**
 
 - 📫 How to reach me **youssef.dev.ai@outlook.com**
 
