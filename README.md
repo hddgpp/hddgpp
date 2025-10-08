@@ -1,42 +1,50 @@
-<h1 align="center">Hi 👋, I'm hddgpp (youssef)</h1>
-<h3 align="center">A passionate Front-end learner, building projects daily to sharpen my skills.</h3>
+![banner](https://github.com/hddgpp/hddgpp/blob/main/portfolio-banner.png) <!-- You can create this later -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hddgpp&label=Profile%20views&color=0e75b6&style=flat" alt="hddgpp" /> </p>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A Self-Taught Frontend Developer from Morocco</h3>
+<p align="center"><i>From zero to production apps in 81 days 🚀</i></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hddgpp" alt="hddgpp" /></a> </p>
+# 💻 Tech Stack I Actually Use:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p align="left"> <a href="https://twitter.com/hddgpp" target="blank"><img src="https://img.shields.io/twitter/follow/hddgpp?logo=twitter&style=for-the-badge" alt="hddgpp" /></a> </p>
+# 🚀 Featured Projects:
 
-- 🔭 I’m currently working on [Chef's menus](https://chefs-menus.netlify.app)
+### [Black Top Cafe](https://your-link) - AI-Powered Cafe Website
+• **AI menu recommendations** based on budget & preferences  
+• **Real-time filtering** & shopping cart
+• **React + Context API + AI Integration**
 
-- 🌱 I’m currently learning **Fullstack — focusing on React/TypeScript, problem solving, and persistence with localStorage/Data**
+### [AI Chef Menu](https://your-link) - Recipe Generator  
+• **Groq AI API** integration for instant recipes
+• **Ingredient-based search** with real-time results
+• **React + Modern CSS Animations**
 
-- 👯 I’m looking to collaborate on **software projects that involve UI/UX, logic, storage, Data, and interaction.**
+### [Meme Generator](https://your-link) - React State Mastery
+• **Dynamic meme creation** with text overlays
+• **API integration** for template library
+• **Built in 1 day** to master React hooks
 
-- 🤝 I’m looking for help with **Writing cleaner, more maintainable React code.**
+# 📊 GitHub Stats:
 
-- 👨‍💻 All of my projects are available at [https://github.com/hddgpp](https://github.com/hddgpp)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hddgpp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hddgpp&theme=dark&hide_border=false" alt="Streak Stats"/>
+</div>
 
-- 📝 I regularly write articles on [x.com](x.com)
+## 🌟 What Makes Me Different:
+• **81-day journey** from beginner to production apps  
+• **AI integration expertise** in real projects
+• **Business-focused** - I build solutions, not just code
+• **Remote-ready** with proven self-management skills
 
-- 💬 Ask me about **React/TypeScript/Tailwind, DOM manipulation, and building daily coding habits.**
+---
 
-- 📫 How to reach me **youssef.dev.ai@outlook.com**
-
-- 📄 Know about my experiences [https://github.com/hddgpp](https://github.com/hddgpp)
-
-- ⚡ Fun fact **My stopwatch app doesn’t just track time — it’s been tracking my progress too**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hddgpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hddgpp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hddgpp&show_icons=true&locale=en&layout=compact" alt="hddgpp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&locale=en" alt="hddgpp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hddgpp&" alt="hddgpp" /></p>
+<p align="center">💼 <b>Open to Remote Frontend Opportunities</b> • 📧 <b>your-email@gmail.com</b></p>
