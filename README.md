@@ -29,15 +29,13 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hddgpp&theme=react-dark)
-
-
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula)
-
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=hddgpp)
+
 </div>
 ---
 ## 🌟 What Makes Me Different:
