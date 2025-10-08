@@ -19,7 +19,7 @@
 
 ### [Black Top Cafe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
 • **AI menu recommendations** based on budget & preferences  
-• **Real-time filtering** & shopping cart
+• **Real-time filtering**
 • **React + Context API + AI Integration**
 
 ### [AI Chef Menu](https://chefs-menus.netlify.app/) - Recipe Generator  
