@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-#🏢 Featured Projects:
+# 🏢 Featured Projects:
 
 ### [Black Top Cafe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
 • **AI menu recommendations** that increased customer engagement  
