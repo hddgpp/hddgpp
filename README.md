@@ -36,7 +36,7 @@
 </div>
 
 ## 🌟 What Makes Me Different:
-• **81-day journey** from beginner to production apps  
+• **79-day journey** from beginner to production apps  
 • **AI integration expertise** in real projects
 • **Business-focused** - I build solutions, not just code
 • **Remote-ready** with proven self-management skills
