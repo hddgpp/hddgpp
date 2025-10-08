@@ -32,7 +32,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hddgpp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hddgpp&theme=dark&hide_border=false" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=hddgpp&theme=dark&hide_border=false" alt="Streak Stats" />
 </div>
 
 ## 🌟 What Makes Me Different:
