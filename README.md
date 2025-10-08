@@ -29,11 +29,17 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hddgpp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=hddgpp&theme=dark&hide_border=false" alt="Streak Stats" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&theme=react)
+![GitHub streak stats](https://streak-stats.demolab.com?user=hddgpp&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hddgpp&theme=react-dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula)
+![Trophy](https://github-profile-trophy.vercel.app/?username=hddgpp)
+
+---
+## Daily.Dev Stats
+<a href="https://app.daily.dev/hddgpp"><img src="https://api.daily.dev/devcards/v2/w3ZfHg10d6mj5IGzL2VPi.png?type=wide&r=n38" width="652" alt="hddgpp's Dev Card"/></a>
+
 
 ## 🌟 What Makes Me Different:
 • **79-day journey** from beginner to production apps  
