@@ -18,7 +18,7 @@
 
 # 🏢 Featured Projects:
 
-### [Black Top Cafe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
+### [BlackTopCoffee](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
 • **AI menu recommendations** that increased customer engagement  
 • **Real business client** - deployed and actively used
 • **Tech:** React, Context API, AI Integration, Netlify
