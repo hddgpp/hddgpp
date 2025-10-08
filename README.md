@@ -1,4 +1,5 @@
-<img width="1080" height="270" alt="image" src="https://github.com/user-attachments/assets/c20bb0a1-9603-4aa4-80a6-c43d9f272e10" />
+<img width="1536" height="382" alt="backgound-lala" src="https://github.com/user-attachments/assets/5b9fda9a-7e89-4284-84e6-7b61727a4476" />
+
 
 <h1 align="center">Hi 👋, I'm Youssef [hddgpp]</h1>
 <h3 align="center">A Self-Taught Frontend Developer from Morocco</h3>
