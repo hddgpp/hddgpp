@@ -38,6 +38,7 @@
 
 </div>
 ---
+
 ## 🌟 My Approach:
 • **Rapid Execution:** Shipped production apps in under 3 months
 • **AI Integration:** Practical experience with AI-powered features  
