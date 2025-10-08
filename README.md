@@ -2,10 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Youssef [hddgpp]</h1>
-<h3 align="center">A Self-Taught Frontend Developer from Morocco</h3>
-<p align="center"><i>From zero to production apps in 79 days 🚀</i></p>
+<h3 align="center">Self-Taught Frontend Developer Building Production-Ready Apps</h3>
+<p align="center"><i>Went from zero to deployed AI applications in 79 days 🚀</i></p>
 
 # 💻 Tech Stack I Actually Use:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,14 +19,14 @@
 #🏢 Featured Projects:
 
 ### [Black Top Cafe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
-• **AI menu recommendations** based on budget & preferences  
-• **Real-time filtering**
-• **React + Context API + AI Integration**
+• **AI menu recommendations** that increased customer engagement  
+• **Real business client** - deployed and actively used
+• **Tech:** React, Context API, AI Integration, Netlify
 
 ### [AI Chef Menu](https://chefs-menus.netlify.app/) - Recipe Generator  
-• **Groq AI API** integration for instant recipes
-• **Ingredient-based search** with real-time results
-• **React + Modern CSS Animations**
+• **Groq AI API integration** with sub-second response times
+• **Modern animations** and responsive design
+• **Tech:** React, TypeScript, Tailwind, Vercel
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -34,15 +35,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hddgpp&theme=react-dark)
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula)
-![Trophy](https://github-profile-trophy.vercel.app/?username=hddgpp)
 
 </div>
 ---
-## 🌟 What Makes Me Different:
-• **79-day journey** from beginner to production apps  
-• **AI integration expertise** in real projects
-• **Business-focused** - I build solutions, not just code
-• **Remote-ready** with proven self-management skills
+## 🌟 My Approach:
+• **Rapid Execution:** Shipped production apps in under 3 months
+• **AI Integration:** Practical experience with AI-powered features  
+• **Business Mindset:** Focus on delivering user value, not just code
+• **Remote Native:** Proven self-management and async communication skills
 
 ---
 
