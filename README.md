@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Youssef [hddgpp]</h1>
 <h3 align="center">A Self-Taught Frontend Developer from Morocco</h3>
-<p align="center"><i>From zero to production apps in 81 days 🚀</i></p>
+<p align="center"><i>From zero to production apps in 79 days 🚀</i></p>
 
 # 💻 Tech Stack I Actually Use:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-# 🚀 Featured Projects:
+#🏢 Featured Projects:
 
 ### [Black Top Cafe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
 • **AI menu recommendations** based on budget & preferences  
