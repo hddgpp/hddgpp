@@ -37,10 +37,6 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=hddgpp)
 
 ---
-## Daily.Dev Stats
-<a href="https://app.daily.dev/hddgpp"><img src="https://api.daily.dev/devcards/v2/w3ZfHg10d6mj5IGzL2VPi.png?type=wide&r=n38" width="652" alt="hddgpp's Dev Card"/></a>
-
-
 ## 🌟 What Makes Me Different:
 • **79-day journey** from beginner to production apps  
 • **AI integration expertise** in real projects
