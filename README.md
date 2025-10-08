@@ -1,6 +1,6 @@
 ![banner](https://github.com/hddgpp/hddgpp/blob/main/portfolio-banner.png) <!-- You can create this later -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Youssef [hddgpp]</h1>
 <h3 align="center">A Self-Taught Frontend Developer from Morocco</h3>
 <p align="center"><i>From zero to production apps in 81 days 🚀</i></p>
 
@@ -16,20 +16,15 @@
 
 # 🚀 Featured Projects:
 
-### [Black Top Cafe](https://your-link) - AI-Powered Cafe Website
+### [Black Top Cafe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
 • **AI menu recommendations** based on budget & preferences  
 • **Real-time filtering** & shopping cart
 • **React + Context API + AI Integration**
 
-### [AI Chef Menu](https://your-link) - Recipe Generator  
+### [AI Chef Menu](https://chefs-menus.netlify.app/) - Recipe Generator  
 • **Groq AI API** integration for instant recipes
 • **Ingredient-based search** with real-time results
 • **React + Modern CSS Animations**
-
-### [Meme Generator](https://your-link) - React State Mastery
-• **Dynamic meme creation** with text overlays
-• **API integration** for template library
-• **Built in 1 day** to master React hooks
 
 # 📊 GitHub Stats:
 
