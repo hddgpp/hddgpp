@@ -42,4 +42,4 @@
 
 ---
 
-<p align="center">💼 <b>Open to Remote Frontend Opportunities</b> • 📧 <b>your-email@gmail.com</b></p>
+<p align="center">💼 <b>Open to Remote Frontend Opportunities</b> • 📧 <b>youssef.dev.ai@outlook.com</b></p>
