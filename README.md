@@ -16,6 +16,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+# 🛠️ Tools I Work With:
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Framer](https://img.shields.io/badge/framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+
 # 🏢 Featured Projects:
 
 ### [BlackTopCoffee](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
