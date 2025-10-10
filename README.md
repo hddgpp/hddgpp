@@ -54,9 +54,15 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&theme=react)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hddgpp&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hddgpp&theme=react-dark)
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula)
+
+<div style="display: flex; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react" alt="Top Langs" width="48%" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula" alt="Profile Details" width="48%" />
+
+</div>
 
 </div>
 
