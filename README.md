@@ -58,9 +58,9 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 
 <div style="display: flex; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react" alt="Top Langs"  />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula" alt="Profile Details" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula" alt="Profile Details" />
 
 </div>
 
