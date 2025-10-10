@@ -54,7 +54,7 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hddgpp&theme=react-dark)
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula)
 
