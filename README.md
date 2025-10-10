@@ -50,8 +50,11 @@
 
 ## 🌟 My Approach:
 • **Rapid Execution:** Shipped production apps in under 3 months
+
 • **AI Integration:** Practical experience with AI-powered features  
+
 • **Business Mindset:** Focus on delivering user value, not just code
+
 • **Remote Native:** Proven self-management and async communication skills
 
 ---
