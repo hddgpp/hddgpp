@@ -52,8 +52,16 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 # 📊 GitHub Stats:
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hddgpp&theme=dark)](https://git.io/streak-stats)
+<div style="display: flex; width: 100%; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&theme=react" alt="GitHub stats" style="width: 50%;" />
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hddgpp&theme=dark" alt="GitHub Streak" style="width: 50%;" />
+  </a>
+
+</div>
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hddgpp&theme=react-dark)
 
 <div style="display: flex; gap: 10px;">
