@@ -65,13 +65,16 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hddgpp&theme=react-dark)
 
-<div style="display: flex; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react" alt="Top Langs"  />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula" alt="Profile Details" />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hddgpp&theme=react" alt="Top Langs" height="200"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddgpp&theme=dracula" alt="Profile Details" height="200"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
