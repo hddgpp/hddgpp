@@ -1,7 +1,7 @@
 <img width="1536" height="382" alt="backgound-lala" src="https://github.com/user-attachments/assets/5b9fda9a-7e89-4284-84e6-7b61727a4476" />
 
 
-<h1 align="center">Hi 👋, I'm Youssef [hddgpp]</h1>
+<h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Self-Taught Frontend Developer Building Production-Ready Apps</h3>
 <p align="center"><i>Went from zero to deployed AI applications in 79 days 🚀</i></p>
 
