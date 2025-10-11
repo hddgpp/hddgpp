@@ -76,6 +76,8 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
   </tr>
 </table>
 
+![Daily Coding](https://img.shields.io/badge/Daily%20Coding-84%20days%20streak-brightgreen)
+
 </div>
 
 ---
