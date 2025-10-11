@@ -1,5 +1,4 @@
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/2e4b1b02-b4c4-4240-a38d-81611afa588f" /><img width="1536" height="382" >
-
+<img width="1536" height="345" alt="AI-Enhanced User Experience Design" src="https://github.com/user-attachments/assets/0176e771-dbcd-47eb-b8d6-1556a02ce22a" />
 
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Self-Taught Frontend Developer Building Production-Ready Apps</h3>
