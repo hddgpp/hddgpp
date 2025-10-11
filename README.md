@@ -57,7 +57,7 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=hddgpp&theme=dark" alt="GitHub Streak" width="500"/>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hddgpp&theme=tokyonight-duo" alt="GitHub Streak" /></a>
       </a>
     </td>
   </tr>
