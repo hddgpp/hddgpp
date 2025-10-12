@@ -38,12 +38,12 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 • **Real business client** - deployed and actively used
 • **Tech:** React, Context API, AI Integration, Netlify
 
-### [Chef's Menu](https://chefs-menus.netlify.app/) - Recipe Generator  
+### [Chef's Menu](https://chefs-menus.netlify.app) - Recipe Generator  
 • **Groq AI API integration** with sub-second response times
 • **Modern animations** and responsive design
 • **Tech:** React, TypeScript, Tailwind, Netlify 
 
-### [Meme-Generator](https://meme-generator-two-mocha.vercel.app/) - React Meme Funhouse
+### [Meme-Generator](https://meme-generator-two-mocha.vercel.app) - React Meme Funhouse
 •  **Random Meme Generator** – fetches fresh memes from the Imgflip API  
 •  **Custom Captions** – top & bottom text with live preview  
 •  **Font Picker** – choose your vibe from multiple fonts  
