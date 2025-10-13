@@ -59,7 +59,7 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
       <img src="https://github-readme-stats.vercel.app/api?username=hddgpp&show_icons=true&theme=react" alt="GitHub stats" width="500"/>
     </td>
     <td>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hddgpp&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?hddgpp=anuraghazra" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
