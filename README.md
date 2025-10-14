@@ -82,13 +82,13 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 ---
 
 ## 🌟 My Approach:
-• **Rapid Execution:** Shipped production apps in under 3 months
+• **Rapid Execution:** Shipped production apps in under 3 months.
 
-• **AI Integration:** Practical experience with AI-powered features  
+• **AI Integration:** Practical experience with AI-powered features. 
 
-• **Business Mindset:** Focus on delivering user value, not just code
+• **Business Mindset:** Focus on delivering user value, not just code.
 
-• **Remote Native:** Proven self-management and async communication skills
+• **Remote Native:** Proven self-management and async communication skills.
 
 ---
 
