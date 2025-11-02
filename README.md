@@ -85,7 +85,7 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 ## 🌟 My Approach:
 • **Rapid Execution:** Shipped production apps in under 3 months.
 
-• **AI Integration:** Practical experience with AI-powered features. 
+• **AI Integration:** Practical experience with AI-powered features using the Groq API. 
 
 • **Business Mindset:** Focus on delivering user value, not just code.
 
