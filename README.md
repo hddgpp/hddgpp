@@ -7,9 +7,28 @@
 ---
 
 <a href="https://meftouhi-portfolio.netlify.app/" 
-   style="align:center;">
+   class="btn">
   My Portfolio
 </a>
+
+<style>
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #4f46e5; /* purple drip */
+    color: white;
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: 0.2s;
+    text-align: center;
+  }
+
+  .btn:hover {
+    background: #4338ca;
+    transform: translateY(-2px);
+  }
+</style>
   
 ---
 
