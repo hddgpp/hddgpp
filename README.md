@@ -48,14 +48,12 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 ### [Chef's Menu](https://chefs-menus.netlify.app) - Recipe Generator  
 • **Groq AI API integration** with sub-second response times
 • **Modern animations** and responsive design
-• **Tech:** React, TypeScript, Tailwind, Netlify 
+• **Tech:** React, Groq, Vite, Netlify 
 
-### [Meme-Generator](https://meme-generator-two-mocha.vercel.app) - React Meme Funhouse
-•  **Random Meme Generator** – fetches fresh memes from the Imgflip API  
-•  **Custom Captions** – top & bottom text with live preview  
-•  **Font Picker** – choose your vibe from multiple fonts  
-•  **Download Meme** – captures the full meme (image + text) in one click  
-•  **Tech Stack:** React, Vite, CSS3, html2canvas, Vercel
+### [Leo Chatbot](https://meme-generator-two-mocha.vercel.app) - React Meme Funhouse
+•  **Groq AI API integration** – fast answering time 
+•  **Clean UI/Ux** – and responsive design
+•  **Tech Stack:** React, Vite, CSS3, Groq, Netlify
 
 ---
 
