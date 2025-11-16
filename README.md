@@ -5,8 +5,6 @@
 <p align="center"><i>Went from zero to deployed AI applications in 79 days 🚀</i></p>
 
 ---
-### My Portfolio 
----
 
 # 💻 Tech Stack I Actually Use:
 
