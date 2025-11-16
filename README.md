@@ -5,6 +5,8 @@
 <p align="center"><i>Went from zero to deployed AI applications in 79 days 🚀</i></p>
 
 ---
+### My Portfolio 
+---
 
 # 💻 Tech Stack I Actually Use:
 
@@ -32,7 +34,9 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 
 ---
 
-# 🏢 Featured Projects:
+# 🏢 [My Portfolio](https://meftouhi-portfolio.netlify.app/)
+
+---
 
 ### [BlackTopCoffe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
 • **AI menu recommendations** that increased customer engagement  
