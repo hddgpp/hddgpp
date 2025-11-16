@@ -7,7 +7,7 @@
 ---
 
 <a href="https://meftouhi-portfolio.netlify.app/" 
-   style="display:block; text-align:center;">
+   style="align:center;">
   My Portfolio
 </a>
   
