@@ -5,9 +5,10 @@
 <p align="center"><i>Went from zero to deployed AI applications in 79 days 🚀</i></p>
 
 ---
-<p align="center">
-[My Portfolio](https://meftouhi-portfolio.netlify.app/)
-<p>
+<a align="center" herf="https://meftouhi-portfolio.netlify.app/">
+  My Portfolio 
+<a>
+  
 ---
 
 # 💻 Tech Stack I Actually Use:
