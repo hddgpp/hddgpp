@@ -18,6 +18,10 @@
 
 ---
 
+[My Portfolio](https://meftouhi-portfolio.netlify.app/)
+
+---
+
 # 🛠️ Tools I Work With:
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -32,9 +36,7 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 
 ---
 
-# 🏢 [My Portfolio](https://meftouhi-portfolio.netlify.app/)
-
----
+# 🏢 My Projects
 
 ### [BlackTopCoffe](https://blacktopcoffee.netlify.app) - AI-Powered Cafe Website
 • **AI menu recommendations** that increased customer engagement  
