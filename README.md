@@ -5,9 +5,11 @@
 <p align="center"><i>Went from zero to deployed AI applications in 79 days 🚀</i></p>
 
 ---
-<a align="center" herf="https://meftouhi-portfolio.netlify.app/">
-  My Portfolio 
-<a>
+
+<a href="https://meftouhi-portfolio.netlify.app/" 
+   style="display:block; text-align:center;">
+  My Portfolio
+</a>
   
 ---
 
