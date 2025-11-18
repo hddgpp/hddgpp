@@ -50,7 +50,7 @@ I’m not a full-time designer, but I use **Figma** and **Canva** to prototype i
 • **Modern animations** and responsive design
 • **Tech:** React, Groq, Vite, Netlify 
 
-### [Leo Chatbot](https://leo-chatbot.netlify.app) - React Meme Funhouse
+### [Leo Chatbot](https://leo-chatbot.netlify.app) - AI Chatbot
 •  **Groq AI API integration** – fast answering time 
 •  **Clean UI/Ux** – and responsive design
 •  **Tech Stack:** React, Vite, CSS3, Groq, Netlify
