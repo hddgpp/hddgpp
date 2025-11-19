@@ -6,7 +6,7 @@
 
 ---
 
-[![My Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://meftouhi-portfolio.netlify.app/)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://meftouhi-portfolio.netlify.app)
 
 
   
